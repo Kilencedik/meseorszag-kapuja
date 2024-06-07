@@ -1,6 +1,6 @@
 export default function SecondDay() {
     return(
-        <div className="pt-5 px-5"><text className="text-xl">Kedd</text>
+        <div className="pt-5 px-5"><text className="text-xl">Kedd - Július 30.</text>
             <ul className="font-normal pt-2 pb-5">
                 <li>8.00 - érkezés</li>
                 <li>8.00-9.00 - bábok, forgatókönyv, díszlet</li>
