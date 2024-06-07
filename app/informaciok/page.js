@@ -13,8 +13,7 @@ export default function Informaciok() {
                             Szükséges dokumentumok: <b>szülői beleegyezés</b>, <b>orvosi igazolás</b>, <b>adatvédelmi beleegyezés</b>.
                             A program <b>8-16</b> óra között zajlik, egy ebéd és egy tízórai szünettel. A tízórait, vizet a gyerek hozza
                             otthonról. Amennyiben a résztevő gyermek bármilyen ételallergiával, érzékenységgel rendelkezik, a speciális
-                            étrend biztosítására sajnos nincs lehetőségünk. A részletes program az alábbi linken található meg:
-                            https://meseorszag-kapuja.vercel.app/program
+                            étrend biztosítására sajnos nincs lehetőségünk. A részletes program a "Program" fül alatt található meg.
                             A tábor a gyerekek előadásával zárul, amelyben egy, a tábor során megismert mesét fognak a szülőknek
                             előadni. Erre a tábor utolsó napján, <b>2024. július 31-én</b> kerül sor, <b>16</b> órai kezdettel.
                             Jelentkezési határidő: <b>2024. július 18.</b>
