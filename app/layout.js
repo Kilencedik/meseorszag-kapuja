@@ -1,6 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.css"
 import Link from "next/link";
+import {Analytics} from "@vercel/analytics/next";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,7 +16,10 @@ export default async function RootLayout({ children }) {
           <body className="text-stone-50 h-screen flex flex-col w-screen ">
               <main className={inter.className}>
                   <Header/>
-                  <div className="h-fit">{children}</div>
+                  <div className="h-fit">
+                      {children}
+                      <Analytics />
+                  </div>
               </main>
           </body>
       </html>
