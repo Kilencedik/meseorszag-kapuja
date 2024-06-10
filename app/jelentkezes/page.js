@@ -10,7 +10,7 @@ export default function Jelentkezes() {
                 Ha felkeltettük érdeklődésedet, szeretettel várunk! Jelentkezni az alábbi kérdőív segítségével van
                 lehetőség:
                 <Link
-                    href="https://docs.google.com/forms/d/e/1FAIpQLSfskWXkDYZNOyJClpbekZBPG1TjQIQvbwELmakIwX5IImBCMg/viewform?usp=sf_link"
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSf_OLCYvAPxZRfaOH5dT-HHFbcs3QFqt1f4QJziAbqlzOJP2A/viewform?usp=sf_link"
                     className="rounded h-28 w-72 bg-sky-500 text-3xl font-semibold text-stone-50 flex justify-center items-center">Jelentkezz!</Link>
             </div>
             <div className="w-full flex items-center justify-around pt-10">
