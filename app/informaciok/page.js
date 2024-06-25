@@ -8,7 +8,7 @@ export default function Informaciok() {
                             A Segítő Mária Római Katolikus Gimnázium 9. C osztályában tanuló diákok mentortanáraik segítségével
                             nappali mesetábort tartanak <b>2024. július 29-31.</b> között, <q>Meseország kapuja</q> címmel. A táborba szeretettel várunk
                             minden mesék iránt érdeklődő <b>1-4</b> osztályos gyereket.
-                            A tábor helyszíne: a Segítő Mária Római Katolikus Gimnázium bentlakása (utcaszám stb.)
+                            A tábor helyszíne: a Segítő Mária Római Katolikus Gimnázium bentlakása (Mihai Eminescu utca 2.)
                             A tábor ára <b>90 lej</b>, ami a napi ebéd költségét valamint egy-két kézműves kellék árát fedezi.
                             Szükséges dokumentumok: <b>szülői beleegyezés</b>, <b>egészségügyi nyilatkozat</b>.
                             A program <b>8-16</b> óra között zajlik, egy ebéd és egy tízórai szünettel. A tízórait, vizet a gyerek hozza
