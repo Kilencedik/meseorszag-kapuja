@@ -10,7 +10,7 @@ export default function Informaciok() {
                             minden mesék iránt érdeklődő <b>1-4</b> osztályos gyereket.
                             A tábor helyszíne: a Segítő Mária Római Katolikus Gimnázium bentlakása (utcaszám stb.)
                             A tábor ára <b>90 lej</b>, ami a napi ebéd költségét valamint egy-két kézműves kellék árát fedezi.
-                            Szükséges dokumentumok: <b>szülői beleegyezés</b>, <b>orvosi igazolás</b>, <b>adatvédelmi beleegyezés</b>.
+                            Szükséges dokumentumok: <b>szülői beleegyezés</b>, <b>egészségügyi nyilatkozat</b>.
                             A program <b>8-16</b> óra között zajlik, egy ebéd és egy tízórai szünettel. A tízórait, vizet a gyerek hozza
                             otthonról. Amennyiben a résztevő gyermek bármilyen ételallergiával, érzékenységgel rendelkezik, a speciális
                             étrend biztosítására sajnos nincs lehetőségünk. A részletes program a <q>Program</q> fül alatt található meg.
