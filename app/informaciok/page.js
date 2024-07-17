@@ -16,7 +16,6 @@ export default function Informaciok() {
                             étrend biztosítására sajnos nincs lehetőségünk. A részletes program a <q>Program</q> fül alatt található meg.
                             A tábor a gyerekek előadásával zárul, amelyben egy, a tábor során megismert mesét fognak a szülőknek
                             előadni. Erre a tábor utolsó napján, <b>2024. július 31-én</b> kerül sor, <b>16</b> órai kezdettel.
-                            Jelentkezési határidő: <b>2024. július 18.</b>
                             A helyek száma korlátozott.
                             <br/><br/>
                             Érdeklődni a <b>0757 530 645</b> telefonszámon lehet, hétköznapokon <b>16-18</b> között.
