@@ -15,7 +15,7 @@ export default function Informaciok() {
                             otthonról. Amennyiben a résztevő gyermek bármilyen ételallergiával, érzékenységgel rendelkezik, a speciális
                             étrend biztosítására sajnos nincs lehetőségünk. A részletes program a <q>Program</q> fül alatt található meg.
                             A tábor a gyerekek előadásával zárul, amelyben egy, a tábor során megismert mesét fognak a szülőknek
-                            előadni. Erre a tábor utolsó napján, <b>2025. július 18-án</b> kerül sor, <b>16</b> órai kezdettel.
+                            előadni. Erre a tábor utolsó napján, <b>2025. július 18-án</b> kerül sor, <b>16</b> órai kezdettel, a tábor helyszínén.
                             <br/><br/>
                             Érdeklődni a <b>0757 530 645</b> telefonszámon lehet, hétköznapokon <b>16-18</b> között.
                         </div>
