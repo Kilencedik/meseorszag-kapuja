@@ -15,7 +15,7 @@ export default function Dokumentumok() {
                     Szülői beleegyezés
                 </a>
                 <a
-                    href="/egeszsegugye-nyilatkozat.pdf"
+                    href="/egeszsegugyi-nyilatkozat.pdf"
                     download
                     className="bg-sky-500 p-1.5 rounded px-3 sm:px-10 hover:opacity-80 my-2"
                 >
