@@ -34,7 +34,7 @@ export function Header() {
                 <Link className="bg-sky-500 p-1.5 rounded px-3 sm:px-10 hover:opacity-80 my-2" href="/program">Program</Link>
                 <Link className="bg-sky-500 p-1.5 rounded px-3 sm:px-10 hover:opacity-80 my-2" href="/jelentkezes">Jelentkezés</Link>
                 <Link className="bg-sky-500 p-1.5 rounded px-3 sm:px-10 hover:opacity-80 my-2" href="/informaciok">Információk</Link>
-                <Link className="bg-sky-500 p-1.5 rounded px-3 sm:px-10 hover:opacity-80 my-2" href="/informaciok">Dokumentumok</Link>
+                <Link className="bg-sky-500 p-1.5 rounded px-3 sm:px-10 hover:opacity-80 my-2" href="/dokumentumok">Dokumentumok</Link>
             </div>
         </div>
         )
