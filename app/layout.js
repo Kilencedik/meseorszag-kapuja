@@ -1,7 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
-import PdfViewer from "./components/PdfViewer";
+import PdfViewer from "./../components/PdfViewer";
 
 const inter = Inter({ subsets: ["latin"] });
 
