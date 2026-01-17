@@ -1,7 +1,8 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
-import PdfViewer from "./../components/PdfViewer";
+import dynamic from "next/dynamic";
+const PdfViewer = dynamic(() => import("./../components/PdfViewer"), { ssr: false });
 
 const inter = Inter({ subsets: ["latin"] });
 
